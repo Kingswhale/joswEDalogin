@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573872643691",
+    "firebase_url": "https://signmeup-29b3a.firebaseio.com",
+    "project_id": "signmeup-29b3a",
+    "storage_bucket": "signmeup-29b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573872643691:android:5c5ef70405cf1c8b",
+        "android_client_info": {
+          "package_name": "com.kingswhale.signmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573872643691-sp6r18a60ovio2uvfrcilrv8fn1e8vmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkuVXq22Ym7y4dfrlFqgUp-AkjTMyMAG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+  ],
+  "configuration_version": "1"
+}

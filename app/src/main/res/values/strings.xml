@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignMeUp</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="email_address">Enter your email address</string>
+    <string name="if_you_have_not_registered_sign_up_here">If you have not Registered? Sign up here</string>
+    <string name="sign">Sign in</string>
+</resources>
